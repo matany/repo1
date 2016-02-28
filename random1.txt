@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 eeee
+=======
+iiiiiiii
+>>>>>>> fix1
